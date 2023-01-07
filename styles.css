@@ -16,7 +16,7 @@
 }
 
 .banner-container{
-    padding-left: 700px;
+    padding-left: 690px;
     padding-top: 228px;
     padding-right: 100px;
 }
@@ -90,6 +90,7 @@
     gap: 100px;
     margin-left: 175px;
     margin-top: 100px;
+    margin-right: 100px;
 }
 
 .part-3-h1{
